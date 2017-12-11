@@ -1,2 +1,0 @@
-git  name 
-git  hig
